@@ -55,3 +55,19 @@ img {
 .align {
     padding: 10px;
 }
+
+.big {
+    text-align: left;
+    width: 60%;
+}
+
+.or {
+    width: 35%;
+    padding-left: 10px;
+}
+
+.dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
